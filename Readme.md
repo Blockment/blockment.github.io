@@ -1,6 +1,6 @@
 # Blockment
 
-Blockchain-based MOOCs offer a fair massive online open course system with peer grading implemented using blockchain technology. Our platform, Blockment, integrates blockchain to enhance transparency, fairness, and efficiency in online education.
+Blockchain-based MOOCs offer a fair, massive online open course system with peer grading implemented using blockchain technology. Our platform, Blockment, integrates blockchain to enhance online education's transparency, fairness, and efficiency.
 
 ## Features
 
@@ -21,17 +21,14 @@ Blockchain-based MOOCs offer a fair massive online open course system with peer 
 - **[LinkedIn](https://www.linkedin.com/in/soroush-jahanzad) | [Twitter](https://twitter.com/SoroushTheFirst) | [Telegram](https://t.me/SoroushTheFirst)**
 
 ### Sina Elahimanesh
-- **Role**: Frontend Developer
 - **Education**: Computer Engineering student at Sharif University of Technology
 - **[LinkedIn](https://www.linkedin.com/in/sina-elahimanesh-094120158) | [Twitter](https://twitter.com/SElahimanesh) | [Telegram](https://t.me/SinaElahimanesh)**
 
 ### Parimehr Morassafar
-- **Role**: UX/UI Designer
 - **Education**: Computer Engineering student at Sharif University of Technology
 - **[LinkedIn](https://www.linkedin.com/in/parimehr-morassafar-766a04195) | [Telegram](https://t.me/pariiimehr)**
 
 ### Parsa Neshaei
-- **Role**: Project Manager
 - **Education**: Computer Engineering student at Sharif University of Technology
 - **[LinkedIn](https://www.linkedin.com/in/spneshaei) | [Twitter](https://twitter.com/seyyedparsa) | [Telegram](https://t.me/spneshaei)**
 
