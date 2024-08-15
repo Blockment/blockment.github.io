@@ -42,4 +42,4 @@ Blockchain-based MOOCs offer a fair, massive online open course system with peer
 - [Soroush Jahanzad](https://github.com/SJahanzad)
 - [Sina Elahimanesh](https://github.com/SinaElahimanesh)
 - [Parimehr Morassafar](https://github.com/parimehrmorassa)
-- [Parsa Neshaei](https://github.com/spneshaei)
+- [Seyed Parsa Neshaei](https://github.com/spneshaei)
