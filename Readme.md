@@ -28,7 +28,7 @@ Blockchain-based MOOCs offer a fair, massive online open course system with peer
 - **Education**: Computer Engineering student at Sharif University of Technology
 - **[LinkedIn](https://www.linkedin.com/in/parimehr-morassafar-766a04195) | [Telegram](https://t.me/pariiimehr)**
 
-### Parsa Neshaei
+### Seyed Parsa Neshaei
 - **Education**: Computer Engineering student at Sharif University of Technology
 - **[LinkedIn](https://www.linkedin.com/in/spneshaei) | [Twitter](https://twitter.com/seyyedparsa) | [Telegram](https://t.me/spneshaei)**
 
